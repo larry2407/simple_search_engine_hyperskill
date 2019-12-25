@@ -1,0 +1,220 @@
+[1;31m
+Start test 1[0m
+Enter the number of people:
+>6
+Enter all people:
+>Dwight Joseph djo@gmail.com
+>Rene Webb webb@gmail.com
+>Katie Jacobs
+'>Erick Harrington harrington@gmail.com
+>Myrtle Medina
+>Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>2
+=== List of people ===
+Dwight Joseph djo@gmail.com
+Rene Webb webb@gmail.com
+Katie Jacobs
+%Erick Harrington harrington@gmail.com
+Myrtle Medina
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>0
+Bye!
+[1;31m
+Start test 2[0m
+Enter the number of people:
+>6
+Enter all people:
+>Dwight Joseph djo@gmail.com
+>Rene Webb webb@gmail.com
+>Katie Jacobs
+'>Erick Harrington harrington@gmail.com
+>Myrtle Medina
+>Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>1
+4Enter a name or email to search all suitable people.
+	>burgess
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>0
+Bye!
+[1;31m
+Start test 3[0m
+Enter the number of people:
+>6
+Enter all people:
+>Dwight Joseph djo@gmail.com
+>Rene Webb webb@gmail.com
+>Katie Jacobs
+'>Erick Harrington harrington@gmail.com
+>Myrtle Medina
+>Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>1
+4Enter a name or email to search all suitable people.
+>erick
+%Erick Harrington harrington@gmail.com
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>0
+Bye!
+[1;31m
+Start test 4[0m
+Enter the number of people:
+>6
+Enter all people:
+>Dwight Joseph djo@gmail.com
+>Rene Webb webb@gmail.com
+>Katie Jacobs
+'>Erick Harrington harrington@gmail.com
+>Myrtle Medina
+>Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>3
+Incorrect option! Try again.
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>1
+4Enter a name or email to search all suitable people.
+	>burgess
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>2
+=== List of people ===
+Dwight Joseph djo@gmail.com
+Rene Webb webb@gmail.com
+Katie Jacobs
+%Erick Harrington harrington@gmail.com
+Myrtle Medina
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>2
+=== List of people ===
+Dwight Joseph djo@gmail.com
+Rene Webb webb@gmail.com
+Katie Jacobs
+%Erick Harrington harrington@gmail.com
+Myrtle Medina
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>1
+4Enter a name or email to search all suitable people.
+>erick
+%Erick Harrington harrington@gmail.com
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>0
+Bye!
+[1;31m
+Start test 5[0m
+Enter the number of people:
+>6
+Enter all people:
+>Dwight Joseph djo@gmail.com
+>Rene Webb webb@gmail.com
+>Katie Jacobs
+'>Erick Harrington harrington@gmail.com
+>Myrtle Medina
+>Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>2
+=== List of people ===
+Dwight Joseph djo@gmail.com
+Rene Webb webb@gmail.com
+Katie Jacobs
+%Erick Harrington harrington@gmail.com
+Myrtle Medina
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>1
+4Enter a name or email to search all suitable people.
+>@
+Dwight Joseph djo@gmail.com
+Rene Webb webb@gmail.com
+%Erick Harrington harrington@gmail.com
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>1
+4Enter a name or email to search all suitable people.
+!>this text never find some match
+No matching people found.
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>2
+=== List of people ===
+Dwight Joseph djo@gmail.com
+Rene Webb webb@gmail.com
+Katie Jacobs
+%Erick Harrington harrington@gmail.com
+Myrtle Medina
+Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>0
+Bye!
+[1;31m
+Start test 6[0m
+Enter the number of people:
+>6
+Enter all people:
+>Dwight Joseph djo@gmail.com
+>Rene Webb webb@gmail.com
+>Katie Jacobs
+'>Erick Harrington harrington@gmail.com
+>Myrtle Medina
+>Erick Burgess
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+>0
+Bye!
